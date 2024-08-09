@@ -36,7 +36,7 @@ Note: Due to sensitive data (credentials,secrets, passwords, API keys) the code 
 
 
 
-![unnamed](https://github.com/workdontstop/ClikBate-App/assets/83871801/dac2cb89-19be-4b66-a0e6-213a61d22696)
+![unnamed](https://github.com/workdontstop/clikbateSocial/blob/main/Screenshot%202024-04-28%20at%2020.45.39%20(1).png)
 
 
 
